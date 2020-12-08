@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Created by Keith Wright
-# 
+# Uses Python 2.7
 import os
 import sys
 import time
